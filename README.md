@@ -15,16 +15,17 @@ The goal of the project is to get comfortable writing structured HTML and workin
 
 🗂️ File Structure
 
-odin-recipes/
-├── index.html
-├── recipes/
-│ ├── lasagna.html
-│ ├── pancakes.html
-│ └── salad.html
-└── images/
-├── lasagna.jpg
-├── pancakes.jpg
-└── salad.jpg
+    odin-recipes/
+    ├── index.html
+    ├── recipes/
+    │   ├── lasagna.html
+    │   ├── pancakes.html
+    │   └── salad.html
+    └── images/
+        ├── lasagna.jpg
+        ├── pancakes.jpg
+        └── salad.jpg
+
 
 💡 Skills Practiced
 
